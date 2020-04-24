@@ -1,1 +1,3 @@
 hello2 file
+
+Line2 in hello2 file
